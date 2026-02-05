@@ -1,73 +1,99 @@
-# Welcome to your Lovable project
+# Gentle Care – Clinic Website UI
 
-## Project info
+A clean, calm, and user-friendly clinic website UI designed to build trust and encourage appointment bookings.  
+This project focuses on **frontend UI/UX**, accessibility, and responsive design for healthcare businesses.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🌿 Project Overview
 
-There are several ways of editing your application.
+**Gentle Care** is a modern clinic website interface built to represent a local medical clinic offering consultations and basic healthcare services.
 
-**Use Lovable**
+The goal of this project is to demonstrate:
+- Trust-focused UI design
+- Clear call-to-actions
+- Responsive layouts
+- Real-world frontend structure suitable for client projects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+This is a **frontend-only project** with no backend or database.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Clean and calming UI suitable for healthcare
+- Clear hero section with call-to-action
+- Services overview section
+- Doctor / clinic information section
+- Contact details with Google Maps embed
+- Fixed WhatsApp contact button
+- Fully responsive (mobile, tablet, desktop)
+- Fast and lightweight UI
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **React**
+- **Tailwind CSS**
+- JavaScript (ES6+)
+- Responsive design principles
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🎯 Purpose of This Project
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+This project is part of my frontend portfolio to showcase:
+- UI/UX thinking for real businesses
+- Component-based React structure
+- Clean layout and spacing
+- Client-ready frontend development
 
-**Edit a file directly in GitHub**
+Backend integration (appointments, forms, authentication) can be added based on project requirements.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📱 Responsive Design
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+The UI is optimized for:
+- Mobile devices
+- Tablets
+- Desktop screens
 
-## What technologies are used for this project?
+Layouts adapt smoothly across screen sizes.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🚀 Getting Started
 
-## How can I deploy this project?
+### 1. Clone the repository
+```bash
+git clone https://github.com/merlasairahul/gentle-care-ui.git
+2. Install dependencies
+bash
+Copy code
+npm install
+3. Run the project
+bash
+Copy code
+npm start
+The app will run locally at http://localhost:3000
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+📌 Future Enhancements (Optional)
+Appointment booking form
 
-## Can I connect a custom domain to my Lovable project?
+Backend integration
 
-Yes, you can!
+Admin dashboard for clinic management
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+SEO optimization
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Multi-language support
+
+👤 Author
+Sai Rahul Merla
+Frontend Developer – React & UI
+Focused on building clean, modern, and user-friendly web applications.
+
+📄 License
+This project is open for learning and portfolio demonstration purposes.
