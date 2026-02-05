@@ -77,18 +77,6 @@ npm install
 bash
 Copy code
 npm start
-The app will run locally at http://localhost:3000
-
-📌 Future Enhancements (Optional)
-Appointment booking form
-
-Backend integration
-
-Admin dashboard for clinic management
-
-SEO optimization
-
-Multi-language support
 
 👤 Author
 Sai Rahul Merla
